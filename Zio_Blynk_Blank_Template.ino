@@ -1,5 +1,5 @@
 /* This is a standard Blynk App template code to be used with Zio or any Arduino compatible products
- * Works with the Zio Zuino M Uno and Zuino PsyFi32 Development Board
+ * Works with the Zio Zuino PsyFi32 Development Board
  * ----> https://www.smart-prototyping.com/Zuino-M-UNO.html
  * ----> https://www.smart-prototyping.com/Zuino-XS-PsyFi32.html
  *
