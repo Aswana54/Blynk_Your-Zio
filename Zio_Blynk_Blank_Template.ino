@@ -40,8 +40,8 @@
 // Go to the Project Settings (nut icon).
 #define SET_AUTH_TOKEN "";
 
-// Your WiFi credentials.
-// Set password to "" for open networks.
+// Your WiFi credentials. Input inside the " ".
+// Set password "" for open networks.
 #define SET_SSID "";
 #define SET_PASS "";
 
@@ -81,7 +81,7 @@ void loop() {
 
 }
 
-//Here is where the data is being write and then displayed to Blynk App
+//Here is where the data is being written and then displayed to Blynk App
 void sendStatus()
 {
   // You can send any value at any time.
