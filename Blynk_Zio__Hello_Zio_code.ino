@@ -54,7 +54,7 @@ char pass[] = SET_PASS;
 
 // This function sends Arduino's up time every second to the Virtual Pins
 BlynkTimer timer;
-
+WidgetLCD lcd(V1);
 
 void setup() {
 
